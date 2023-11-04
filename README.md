@@ -2,6 +2,8 @@
 
 Welcome to the Linear Regression Analysis of Temperature Trends in India project repository. This project focuses on applying linear regression to analyze historical temperature data in India, explore trends, and build a predictive model.
 
+**Kaggle Project Link:** [Kaggle Linear Regression Project](https://www.kaggle.com/code/kiranmarne/linearregration)
+
 ## Dataset
 
 The dataset used in this project contains temperature records for India, with data available up to the year 2017. Temperature values are recorded in degrees Celsius, representing the average temperatures from various locations in India. The data is sourced directly from the Indian government website, ensuring its reliability and accuracy.
