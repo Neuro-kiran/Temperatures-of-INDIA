@@ -1,6 +1,6 @@
-# Temperature Analysis and Linear Regression in India
+# Linear Regression Analysis of Temperature Trends in India
 
-Welcome to the Temperature Analysis and Linear Regression project repository. This project focuses on analyzing historical temperature data in India, exploring trends, and building a predictive model using linear regression.
+Welcome to the Linear Regression Analysis of Temperature Trends in India project repository. This project focuses on applying linear regression to analyze historical temperature data in India, explore trends, and build a predictive model.
 
 ## Dataset
 
@@ -8,7 +8,7 @@ The dataset used in this project contains temperature records for India, with da
 
 ## Project Overview
 
-In this project, we have performed the following key steps:
+In this project, we have applied linear regression to the temperature data to achieve the following key objectives:
 
 1. **Data Preprocessing:** The dataset was cleaned, and any missing values were handled to ensure that it's ready for analysis.
 
